@@ -1,4 +1,5 @@
 # localUDPthruput
+# (a pcket loss simulation)
 
 run driver in terminal: 
   python driver.py \<number of packets\> \<base wait time\> \<router drop rate in percentage\>
