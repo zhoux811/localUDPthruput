@@ -13,4 +13,4 @@ run driver in terminal:
   <br>
   means:
   <br>
-  SENDER sends 150 packets from size 1 byte to 150 bytes to router. router randomly drop 1 packet for 1% probability. then forwards data to RECEIVER. if sender detects an unordered or lost packet, ask SENDER to send again. transmitting UDP sockets.
+  SENDER sends 150 packets from size 1 byte to 150 bytes to router. pause and wait for potential NACK packet for 0.2 * 2 second. router randomly drop 1 packet for 1% probability. then forwards data to RECEIVER. if sender detects an unordered or lost packet, ask SENDER to send again. all UDP sockets.
