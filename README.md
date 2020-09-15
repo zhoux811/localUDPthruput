@@ -13,4 +13,6 @@ run driver in terminal:
   <br>
   means:
   <br>
-  SENDER sends 150 packets from size 1 byte to 150 bytes to router. pause and wait for potential NACK packet for 0.2 * 2 second. router randomly drop 1 packet for 1% probability. then forwards data to RECEIVER. if sender detects an unordered or lost packet, ask SENDER to send again. all UDP sockets. result is appended to result.txt.
+  SENDER sends 150 packets from size 1 byte to 150 bytes to router. pause and wait for potential NACK packet for 0.2 * 2 second. router randomly drop 1 packet for 1% probability. then forwards data to RECEIVER. if sender detects an unordered or lost packet, ask SENDER to send again. all UDP sockets. result is appended to result.txt in forms of:
+  <br>
+  RECEIVER received 650 ordered packets. total 211575.0 bytes. base wait time: 0.2 sec. used 128 NACK packets. took 15.67758297920227 seconds. drop_rate was 0.1. thruput is 13495.383840779114 bytes/sec. 
