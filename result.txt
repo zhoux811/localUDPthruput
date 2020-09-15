@@ -1,0 +1,137 @@
+
+RECEIVER received 150 ordered packets. total 11325.0 bytes. base wait time: 0.2 sec. used 0 NACK packets. took 8.200480937957764 seconds. drop_rate was 0.1. thruput is 1381.016563013969 bytes/sec. 
+RECEIVER received 150 ordered packets. total 11325.0 bytes. base wait time: 0.2 sec. used 0 NACK packets. took 8.21139669418335 seconds. drop_rate was 0.1. thruput is 1379.1807194045577 bytes/sec. 
+RECEIVER received 150 ordered packets. total 11325.0 bytes. base wait time: 0.2 sec. used 0 NACK packets. took 8.193985939025879 seconds. drop_rate was 0.1. thruput is 1382.1112318562684 bytes/sec. 
+RECEIVER received 150 ordered packets. total 11325.0 bytes. base wait time: 0.2 sec. used 26 NACK packets. took 11.474719047546387 seconds. drop_rate was 0.1. thruput is 986.9522689901152 bytes/sec. 
+RECEIVER received 150 ordered packets. total 11325.0 bytes. base wait time: 0.2 sec. used 0 NACK packets. took 8.198938131332397 seconds. drop_rate was 0.1. thruput is 1381.2764309955332 bytes/sec. 
+RECEIVER received 150 ordered packets. total 11325.0 bytes. base wait time: 0.2 sec. used 0 NACK packets. took 8.20350456237793 seconds. drop_rate was 0.1. thruput is 1380.5075518501633 bytes/sec.
+
+RECEIVER received 250 ordered packets. total 31375.0 bytes. base wait time: 0.2 sec. used 0 NACK packets. took 8.257041454315186 seconds. drop_rate was 0.1. thruput is 3799.7871481683324 bytes/sec. 
+RECEIVER received 250 ordered packets. total 31375.0 bytes. base wait time: 0.2 sec. used 50 NACK packets. took 13.175726413726807 seconds. drop_rate was 0.1. thruput is 2381.272881266928 bytes/sec. 
+RECEIVER received 250 ordered packets. total 31375.0 bytes. base wait time: 0.2 sec. used 0 NACK packets. took 8.230169773101807 seconds. drop_rate was 0.1. thruput is 3812.1935348820043 bytes/sec. 
+RECEIVER received 250 ordered packets. total 31375.0 bytes. base wait time: 0.2 sec. used 0 NACK packets. took 8.24574065208435 seconds. drop_rate was 0.1. thruput is 3804.9947632137882 bytes/sec. 
+RECEIVER received 250 ordered packets. total 31375.0 bytes. base wait time: 0.2 sec. used 0 NACK packets. took 8.21264910697937 seconds. drop_rate was 0.1. thruput is 3820.326375972465 bytes/sec. 
+RECEIVER received 250 ordered packets. total 31375.0 bytes. base wait time: 0.2 sec. used 15 NACK packets. took 11.507057189941406 seconds. drop_rate was 0.1. thruput is 2726.5876480935226 bytes/sec. 
+RECEIVER received 250 ordered packets. total 31375.0 bytes. base wait time: 0.2 sec. used 0 NACK packets. took 8.263777017593384 seconds. drop_rate was 0.1. thruput is 3796.6900526482473 bytes/sec.
+
+RECEIVER received 450 ordered packets. total 101475.0 bytes. base wait time: 0.2 sec. used 0 NACK packets. took 9.05923318862915 seconds. drop_rate was 0.1. thruput is 11201.279168679315 bytes/sec. 
+RECEIVER received 450 ordered packets. total 101475.0 bytes. base wait time: 0.2 sec. used 1 NACK packets. took 9.849929332733154 seconds. drop_rate was 0.1. thruput is 10302.104367670905 bytes/sec. 
+RECEIVER received 450 ordered packets. total 101475.0 bytes. base wait time: 0.2 sec. used 174 NACK packets. took 14.920099020004272 seconds. drop_rate was 0.1. thruput is 6801.228320532348 bytes/sec. 
+RECEIVER received 450 ordered packets. total 101475.0 bytes. base wait time: 0.2 sec. used 7 NACK packets. took 13.928905725479126 seconds. drop_rate was 0.1. thruput is 7285.2097644956575 bytes/sec. 
+RECEIVER received 450 ordered packets. total 101475.0 bytes. base wait time: 0.2 sec. used 89 NACK packets. took 14.066125631332397 seconds. drop_rate was 0.1. thruput is 7214.140031137195 bytes/sec. 
+RECEIVER received 450 ordered packets. total 101475.0 bytes. base wait time: 0.2 sec. used 95 NACK packets. took 14.039346694946289 seconds. drop_rate was 0.1. thruput is 7227.900429051141 bytes/sec. 
+RECEIVER received 450 ordered packets. total 101475.0 bytes. base wait time: 0.2 sec. used 0 NACK packets. took 9.074247360229492 seconds. drop_rate was 0.1. thruput is 11182.745628551353 bytes/sec. 
+RECEIVER received 450 ordered packets. total 101475.0 bytes. base wait time: 0.2 sec. used 105 NACK packets. took 15.639422416687012 seconds. drop_rate was 0.1. thruput is 6488.410971733061 bytes/sec. 
+RECEIVER received 450 ordered packets. total 101475.0 bytes. base wait time: 0.2 sec. used 47 NACK packets. took 13.19050645828247 seconds. drop_rate was 0.1. thruput is 7693.032888534972 bytes/sec. 
+RECEIVER received 450 ordered packets. total 101475.0 bytes. base wait time: 0.2 sec. used 46 NACK packets. took 14.040128946304321 seconds. drop_rate was 0.1. thruput is 7227.4977237093335 bytes/sec. 
+RECEIVER received 450 ordered packets. total 101475.0 bytes. base wait time: 0.2 sec. used 0 NACK packets. took 9.038320302963257 seconds. drop_rate was 0.1. thruput is 11227.196713390533 bytes/sec.
+
+RECEIVER received 650 ordered packets. total 211575.0 bytes. base wait time: 0.2 sec. used 74 NACK packets. took 19.87916135787964 seconds. drop_rate was 0.1. thruput is 10643.054613374652 bytes/sec. 
+RECEIVER received 650 ordered packets. total 211575.0 bytes. base wait time: 0.2 sec. used 3 NACK packets. took 14.759517192840576 seconds. drop_rate was 0.1. thruput is 14334.818492750497 bytes/sec. 
+RECEIVER received 650 ordered packets. total 211575.0 bytes. base wait time: 0.2 sec. used 128 NACK packets. took 15.695197582244873 seconds. drop_rate was 0.1. thruput is 13480.23807227144 bytes/sec. 
+RECEIVER received 650 ordered packets. total 211575.0 bytes. base wait time: 0.2 sec. used 128 NACK packets. took 15.67758297920227 seconds. drop_rate was 0.1. thruput is 13495.383840779114 bytes/sec. 
+RECEIVER received 650 ordered packets. total 211575.0 bytes. base wait time: 0.2 sec. used 161 NACK packets. took 15.759627103805542 seconds. drop_rate was 0.1. thruput is 13425.127295614127 bytes/sec. 
+RECEIVER received 650 ordered packets. total 211575.0 bytes. base wait time: 0.2 sec. used 1 NACK packets. took 14.737937450408936 seconds. drop_rate was 0.1. thruput is 14355.807975974914 bytes/sec. 
+RECEIVER received 650 ordered packets. total 211575.0 bytes. base wait time: 0.2 sec. used 1 NACK packets. took 14.725072383880615 seconds. drop_rate was 0.1. thruput is 14368.350421938094 bytes/sec. 
+RECEIVER received 650 ordered packets. total 211575.0 bytes. base wait time: 0.2 sec. used 29 NACK packets. took 18.028361797332764 seconds. drop_rate was 0.1. thruput is 11735.675286442378 bytes/sec. 
+RECEIVER received 650 ordered packets. total 211575.0 bytes. base wait time: 0.2 sec. used 98 NACK packets. took 22.973809957504272 seconds. drop_rate was 0.1. thruput is 9209.399763964277 bytes/sec. 
+RECEIVER received 650 ordered packets. total 211575.0 bytes. base wait time: 0.2 sec. used 3 NACK packets. took 14.795210838317871 seconds. drop_rate was 0.1. thruput is 14300.235550009562 bytes/sec. 
+RECEIVER received 650 ordered packets. total 211575.0 bytes. base wait time: 0.2 sec. used 130 NACK packets. took 15.978781461715698 seconds. drop_rate was 0.1. thruput is 13240.99716282636 bytes/sec. 
+RECEIVER received 650 ordered packets. total 211575.0 bytes. base wait time: 0.2 sec. used 3 NACK packets. took 14.708709478378296 seconds. drop_rate was 0.1. thruput is 14384.33469034206 bytes/sec. 
+RECEIVER received 650 ordered packets. total 211575.0 bytes. base wait time: 0.2 sec. used 1 NACK packets. took 14.78237533569336 seconds. drop_rate was 0.1. thruput is 14312.652411763172 bytes/sec. 
+RECEIVER received 650 ordered packets. total 211575.0 bytes. base wait time: 0.2 sec. used 198 NACK packets. took 20.762129068374634 seconds. drop_rate was 0.1. thruput is 10190.428895959232 bytes/sec.
+
+RECEIVER received 850 ordered packets. total 361675.0 bytes. base wait time: 0.2 sec. used 4 NACK packets. took 20.462281942367554 seconds. drop_rate was 0.1. thruput is 17675.203626783426 bytes/sec. 
+RECEIVER received 850 ordered packets. total 361675.0 bytes. base wait time: 0.2 sec. used 135 NACK packets. took 25.45838761329651 seconds. drop_rate was 0.1. thruput is 14206.516354991112 bytes/sec. 
+RECEIVER received 850 ordered packets. total 361675.0 bytes. base wait time: 0.2 sec. used 49 NACK packets. took 24.613818168640137 seconds. drop_rate was 0.1. thruput is 14693.98195444546 bytes/sec. 
+RECEIVER received 850 ordered packets. total 361675.0 bytes. base wait time: 0.2 sec. used 55 NACK packets. took 20.507514238357544 seconds. drop_rate was 0.1. thruput is 17636.21840249746 bytes/sec. 
+RECEIVER received 850 ordered packets. total 361675.0 bytes. base wait time: 0.2 sec. used 249 NACK packets. took 25.639155864715576 seconds. drop_rate was 0.1. thruput is 14106.353653309412 bytes/sec. 
+RECEIVER received 850 ordered packets. total 361675.0 bytes. base wait time: 0.2 sec. used 4 NACK packets. took 20.501909255981445 seconds. drop_rate was 0.1. thruput is 17641.039938486756 bytes/sec. 
+RECEIVER received 850 ordered packets. total 361675.0 bytes. base wait time: 0.2 sec. used 2 NACK packets. took 20.4985134601593 seconds. drop_rate was 0.1. thruput is 17643.962363561033 bytes/sec. 
+RECEIVER received 850 ordered packets. total 361675.0 bytes. base wait time: 0.2 sec. used 2 NACK packets. took 20.538597583770752 seconds. drop_rate was 0.1. thruput is 17609.527550497867 bytes/sec. 
+RECEIVER received 850 ordered packets. total 361675.0 bytes. base wait time: 0.2 sec. used 96 NACK packets. took 21.360487699508667 seconds. drop_rate was 0.1. thruput is 16931.96359034065 bytes/sec. 
+RECEIVER received 850 ordered packets. total 361675.0 bytes. base wait time: 0.2 sec. used 93 NACK packets. took 23.788600206375122 seconds. drop_rate was 0.1. thruput is 15203.710889347516 bytes/sec. 
+RECEIVER received 850 ordered packets. total 361675.0 bytes. base wait time: 0.2 sec. used 2 NACK packets. took 20.40267515182495 seconds. drop_rate was 0.1. thruput is 17726.84205912328 bytes/sec. 
+RECEIVER received 850 ordered packets. total 361675.0 bytes. base wait time: 0.2 sec. used 27 NACK packets. took 23.813025951385498 seconds. drop_rate was 0.1. thruput is 15188.115980655406 bytes/sec. 
+RECEIVER received 850 ordered packets. total 361675.0 bytes. base wait time: 0.2 sec. used 2 NACK packets. took 20.438151836395264 seconds. drop_rate was 0.1. thruput is 17696.071684717932 bytes/sec. 
+RECEIVER received 850 ordered packets. total 361675.0 bytes. base wait time: 0.2 sec. used 104 NACK packets. took 21.405874013900757 seconds. drop_rate was 0.1. thruput is 16896.063191119032 bytes/sec. 
+RECEIVER received 850 ordered packets. total 361675.0 bytes. base wait time: 0.2 sec. used 125 NACK packets. took 25.615725994110107 seconds. drop_rate was 0.1. thruput is 14119.256275740961 bytes/sec.
+
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.2 sec. used 206 NACK packets. took 27.05064582824707 seconds. drop_rate was 0.1. thruput is 18502.330893607108 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.2 sec. used 74 NACK packets. took 26.1276695728302 seconds. drop_rate was 0.1. thruput is 19155.937294938198 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.2 sec. used 168 NACK packets. took 26.2547504901886 seconds. drop_rate was 0.1. thruput is 19063.21677621872 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.2 sec. used 146 NACK packets. took 37.52189302444458 seconds. drop_rate was 0.1. thruput is 13338.879242418197 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.2 sec. used 113 NACK packets. took 26.125020503997803 seconds. drop_rate was 0.1. thruput is 19157.87970093308 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.2 sec. used 131 NACK packets. took 30.226200819015503 seconds. drop_rate was 0.1. thruput is 16558.481927544533 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.2 sec. used 3 NACK packets. took 25.235520601272583 seconds. drop_rate was 0.1. thruput is 19833.155333231392 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.2 sec. used 5 NACK packets. took 25.23386263847351 seconds. drop_rate was 0.1. thruput is 19834.458448580866 bytes/sec.
+
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.1 sec. used 100 NACK packets. took 14.47007942199707 seconds. drop_rate was 0.1. thruput is 34588.61457520073 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.1 sec. used 5 NACK packets. took 14.243961095809937 seconds. drop_rate was 0.1. thruput is 35137.697767738864 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.1 sec. used 138 NACK packets. took 14.572107076644897 seconds. drop_rate was 0.1. thruput is 34346.43990519152 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.1 sec. used 75 NACK packets. took 15.289696455001831 seconds. drop_rate was 0.1. thruput is 32734.462811148074 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.1 sec. used 31 NACK packets. took 15.5888671875 seconds. drop_rate was 0.1. thruput is 32106.245693165445 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.1 sec. used 64 NACK packets. took 14.42251181602478 seconds. drop_rate was 0.1. thruput is 34702.69301106739 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.1 sec. used 141 NACK packets. took 15.711223602294922 seconds. drop_rate was 0.1. thruput is 31856.207553872027 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.1 sec. used 88 NACK packets. took 15.262913465499878 seconds. drop_rate was 0.1. thruput is 32791.90445070167 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.1 sec. used 50 NACK packets. took 14.030616760253906 seconds. drop_rate was 0.1. thruput is 35671.98851997883 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.1 sec. used 122 NACK packets. took 16.103641510009766 seconds. drop_rate was 0.1. thruput is 31079.926840702286 bytes/sec.
+
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.05 sec. used 180 NACK packets. took 9.522717237472534 seconds. drop_rate was 0.1. thruput is 52558.52794100604 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.05 sec. used 137 NACK packets. took 9.828320264816284 seconds. drop_rate was 0.1. thruput is 50924.266457993326 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.05 sec. used 5 NACK packets. took 8.328800678253174 seconds. drop_rate was 0.1. thruput is 60092.68552996174 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.05 sec. used 76 NACK packets. took 8.669385433197021 seconds. drop_rate was 0.1. thruput is 57731.88928519353 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.05 sec. used 98 NACK packets. took 8.640500783920288 seconds. drop_rate was 0.1. thruput is 57924.88335067516 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.05 sec. used 107 NACK packets. took 10.290853023529053 seconds. drop_rate was 0.1. thruput is 48635.42398824029 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.05 sec. used 114 NACK packets. took 8.698011636734009 seconds. drop_rate was 0.1. thruput is 57541.88668663719 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.05 sec. used 230 NACK packets. took 8.957586288452148 seconds. drop_rate was 0.1. thruput is 55874.426869348674 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.05 sec. used 109 NACK packets. took 9.755632162094116 seconds. drop_rate was 0.1. thruput is 51303.697360045204 bytes/sec.
+
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.05 sec. used 166 NACK packets. took 13.071041345596313 seconds. drop_rate was 1. thruput is 38290.75180522021 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.05 sec. used 146 NACK packets. took 10.578053951263428 seconds. drop_rate was 1. thruput is 47314.94113245858 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.05 sec. used 476 NACK packets. took 14.2338387966156 seconds. drop_rate was 1. thruput is 35162.685706332755 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.05 sec. used 296 NACK packets. took 13.690030097961426 seconds. drop_rate was 1. thruput is 36559.452128197234 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.05 sec. used 68 NACK packets. took 10.744596004486084 seconds. drop_rate was 1. thruput is 46581.555955294294 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.05 sec. used 215 NACK packets. took 13.932889461517334 seconds. drop_rate was 1. thruput is 35922.19699886243 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.05 sec. used 244 NACK packets. took 17.60581111907959 seconds. drop_rate was 1. thruput is 28428.113684441567 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.05 sec. used 375 NACK packets. took 18.448534965515137 seconds. drop_rate was 1. thruput is 27129.525511676562 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.05 sec. used 386 NACK packets. took 12.896347045898438 seconds. drop_rate was 1. thruput is 38809.43946519952 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.05 sec. used 302 NACK packets. took 13.097028970718384 seconds. drop_rate was 1. thruput is 38214.773832980776 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.05 sec. used 336 NACK packets. took 10.853630781173706 seconds. drop_rate was 1. thruput is 46113.6010696207 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.05 sec. used 396 NACK packets. took 19.889649391174316 seconds. drop_rate was 1. thruput is 25163.84226572079 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.05 sec. used 147 NACK packets. took 11.327332258224487 seconds. drop_rate was 1. thruput is 44185.16104147997 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.05 sec. used 324 NACK packets. took 16.025112867355347 seconds. drop_rate was 1. thruput is 31232.229322987503 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.05 sec. used 437 NACK packets. took 17.28323769569397 seconds. drop_rate was 1. thruput is 28958.69447682809 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.05 sec. used 433 NACK packets. took 14.576512336730957 seconds. drop_rate was 1. thruput is 34336.05985011954 bytes/sec.
+
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.1 sec. used 187 NACK packets. took 21.877264499664307 seconds. drop_rate was 1. thruput is 22877.631707916677 bytes/sec.
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.1 sec. used 157 NACK packets. took 23.093262434005737 seconds. drop_rate was 1. thruput is 21672.988016755662 bytes/sec.
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.1 sec. used 407 NACK packets. took 23.144712686538696 seconds. drop_rate was 1. thruput is 21624.809379945258 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.1 sec. used 216 NACK packets. took 20.267568588256836 seconds. drop_rate was 1. thruput is 24694.624706487637 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.1 sec. used 321 NACK packets. took 31.696834087371826 seconds. drop_rate was 1. thruput is 15790.220519196951 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.1 sec. used 399 NACK packets. took 28.780958652496338 seconds. drop_rate was 1. thruput is 17389.969738085452 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.1 sec. used 349 NACK packets. took 26.441877603530884 seconds. drop_rate was 1. thruput is 18928.30787225058 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.1 sec. used 251 NACK packets. took 29.672781944274902 seconds. drop_rate was 1. thruput is 16867.309608513704 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.1 sec. used 186 NACK packets. took 24.344345808029175 seconds. drop_rate was 1. thruput is 20559.18873099998 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.1 sec. used 245 NACK packets. took 24.75521755218506 seconds. drop_rate was 1. thruput is 20217.960070232653 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.1 sec. used 64 NACK packets. took 18.9387788772583 seconds. drop_rate was 1. thruput is 26427.258232630866 bytes/sec.
+
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.01 sec. used 286 NACK packets. took 6.02854061126709 seconds. drop_rate was 1. thruput is 83021.75141104407 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.01 sec. used 410 NACK packets. took 4.837893009185791 seconds. drop_rate was 1. thruput is 103454.12745790202 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.01 sec. used 351 NACK packets. took 6.2015626430511475 seconds. drop_rate was 1. thruput is 80705.4655105049 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.01 sec. used 355 NACK packets. took 5.658173084259033 seconds. drop_rate was 1. thruput is 88456.11340388027 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.01 sec. used 147 NACK packets. took 5.887528657913208 seconds. drop_rate was 1. thruput is 85010.20191677481 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.01 sec. used 322 NACK packets. took 5.758925437927246 seconds. drop_rate was 1. thruput is 86908.57441976885 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.01 sec. used 307 NACK packets. took 5.905945301055908 seconds. drop_rate was 1. thruput is 84745.11267663061 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.01 sec. used 354 NACK packets. took 6.172860145568848 seconds. drop_rate was 1. thruput is 81080.72889992187 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.01 sec. used 347 NACK packets. took 5.446577072143555 seconds. drop_rate was 1. thruput is 91892.57645132767 bytes/sec.
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.01 sec. used 337 NACK packets. took 6.440785646438599 seconds. drop_rate was 1. thruput is 77707.91134413067 bytes/sec.
+
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.001 sec. used 305 NACK packets. took 3.72161602973938 seconds. drop_rate was 1. thruput is 134484.58841549256 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.001 sec. used 315 NACK packets. took 3.7981972694396973 seconds. drop_rate was 1. thruput is 131773.03981207716 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.001 sec. used 432 NACK packets. took 4.097306728363037 seconds. drop_rate was 1. thruput is 122153.41276145089 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.001 sec. used 373 NACK packets. took 3.8915481567382812 seconds. drop_rate was 1. thruput is 128612.05356880289 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.001 sec. used 314 NACK packets. took 3.670203685760498 seconds. drop_rate was 1. thruput is 136368.4533209475 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.001 sec. used 339 NACK packets. took 3.9151153564453125 seconds. drop_rate was 1. thruput is 127837.86796372295 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.001 sec. used 447 NACK packets. took 4.241861820220947 seconds. drop_rate was 1. thruput is 117990.64213127298 bytes/sec. 
+RECEIVER received 1000 ordered packets. total 500500.0 bytes. base wait time: 0.001 sec. used 330 NACK packets. took 4.180033922195435 seconds. drop_rate was 1. thruput is 119735.87040583817 bytes/sec.
